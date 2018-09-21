@@ -1,0 +1,26 @@
+_repo: The-Shield-of-Love_53598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farjeon, B. L. (Benjamin Leopold)
+    alias: Farjeon, Benjamin Leopold
+    birthdate: 1833
+    deathdate: 1903
+    gutenberg_agent_id: '41959'
+    url: http://www.gutenberg.org/2009/agents/41959
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
+description: ''
+gutenberg_issued: '2016-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: The Shield of Love
+url: http://www.gutenberg.org/ebooks/53598
