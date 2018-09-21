@@ -1,5 +1,8 @@
 _repo: The-Shield-of-Love_53598
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Farjeon, B. L. (Benjamin Leopold)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41959
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53598#The-Shield-of-Love
 gutenberg_issued: '2016-11-25'
 gutenberg_type: Text
 identifiers:
